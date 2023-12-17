@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amarr002
-# 💫 About Me:
-👀 I’m interested in web development<br>🌱 I’m currently learning ReactJS<br>💞️ I’m looking to collaborate on Open-Sourc
+
 
 
 ## 🌐 Socials:
