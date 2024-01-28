@@ -1,5 +1,6 @@
-<div style="text-align: left;">
 # 👨‍💻 I'm Amar Upadhyay
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 - 🚀 Fourth-year Computer Science student on a quest for knowledge and innovation.
 - 💻 Passionate about **Web and App Development**, specializing in creating seamless user experiences.
@@ -7,7 +8,11 @@
 
 ## 🌐 Tech Enthusiast:
 - 🌟 Proficient in **Web Development** technologies.
-- ⚛️ Experience with **ReactJS** for crafting dynamic and responsive web applications.
+- 🛠️ Familiar with **RESTful APIs** and integrating third-party services.
+- 📊 Adept at implementing responsive design principles for seamless user experiences.
+- 🧰 Using **Git** for version control and collaborative development.
+- 🚧 Currently exploring **Progressive Web Apps (PWAs)** and their impact on user engagement.
+- 🧑‍💻 Enthusiastic about keeping up with the latest trends in web technologies.
 
 ## 📈 Data Explorer:
 - 🧠 Eager to explore the realms of **Data Science** with Python and machine learning.
@@ -15,11 +20,9 @@
 
 Let's code something extraordinary together! 🚀✨
 
-</div>
 
-<div style="text-align: right;">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-</div>
+  
+
 
 
 
